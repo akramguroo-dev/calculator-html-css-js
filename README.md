@@ -15,7 +15,7 @@ A simple web-based calculator built using HTML, CSS, and JavaScript.
 ![Project Screenshot](./screenshots/demo.png)
 
 ## Live Demo
-(https://akramguroo-dev.github.io/calculator-html-css-js/)
+🔗 [View Project on GitHub Pages](https://akramguroo-dev.github.io/calculator-html-css-js/)
 
 ## Author
 - Akram Guroo (github.com/akramguroo-dev)
